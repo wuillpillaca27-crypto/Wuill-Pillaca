@@ -2,7 +2,11 @@
 
 ###  Senior Software Engineer & AI Enthusiast
 
-Desarrollador con **8+ años de experiencia** especializado en aplicaciones cloud-native e inteligencia artificial. Apasionado por resolver problemas complejos mediante código elegante y arquitecturas escalables. Mi misión es crear tecnología que mejore la vida de las personas.
+Soy estudiante de Ingeniería de Sistemas, interesado en el desarrollo de software y en la creación de soluciones tecnológicas que permitan resolver problemas reales.
+
+Actualmente estoy fortaleciendo mis conocimientos en programación, desarrollo web, bases de datos y herramientas para el desarrollo de software. Me gusta aprender nuevas tecnologías, trabajar en proyectos y mejorar continuamente mis habilidades.
+
+🧑‍💻 Sobre mí
 
 ---
 
