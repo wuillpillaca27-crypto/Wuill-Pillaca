@@ -37,19 +37,10 @@ Actualmente estoy fortaleciendo mis conocimientos en programación, desarrollo w
 ---
 
 ## 🌟 Proyectos Destacados
+Sistema de gestión académica
 
-### [**NeuroVision AI**](https://github.com/WuillPillaca/neurovision-ai)
-Plataforma de análisis de imágenes médicas usando redes neuronales convolucionales.
-**Stack:** Python, TensorFlow, FastAPI, Vue.js, Google Cloud Healthcare API
-**Logro:** 95% de precisión en detección temprana de anomalías
+Una aplicación para gestionar estudiantes, cursos, profesores y notas.
 
-### [**CloudCost Optimizer**](https://github.com/WuillPillaca/cloudcost-optimizer)
-Herramienta de optimización de costos en la nube con recomendaciones inteligentes.
-**Stack:** Go, Kubernetes, Terraform, Grafana, Prometheus
-**Impacto:** Reducción de 40% en costos cloud para clientes
 
-### [**CodeSync Pro**](https://github.com/WuillPillaca/codesync-pro)
-IDE colaborativo en tiempo real con soporte para múltiples lenguajes.
-**Stack:** TypeScript, Svelte, WebRTC, Redis, WebSocket
-**Innovación:** Colaboración en tiempo real con 1000+ usuarios concurrentes
-
+Objetivos
+Mi objetivo es seguir desarrollándome profesionalmente en el área de tecnología, adquiriendo experiencia mediante proyectos reales y fortaleciendo mis conocimientos en desarrollo de software e ingeniería de sistemas.
